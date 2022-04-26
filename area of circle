@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    int radius = 88;
+    float pi =77 ;
+printf("area of circle = %f" ,pi*radius*radius);
+
+
+    return 0;
+
+}
